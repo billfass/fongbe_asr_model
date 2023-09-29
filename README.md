@@ -46,7 +46,9 @@ Exécutez le fichier demo.ipynb ou demo.py pour tester le modèle avec Gradio. V
 
 
 ### Tester le modèle avec FAST API
-Exécutez le fichier main.py pour tester le modèle avec FastApi.
+Exécutez le fichier main.py pour tester le modèle avec FastApi. 
+
+![Capture de test avec fastapi](img/fastapi.png)
 
 ## Limitations et Biais
 
