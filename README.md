@@ -41,7 +41,9 @@ transcription = transcribe_audio(audio_file)
 print("Transcription:", transcription)
 ```
 ### Tester le modèle avec Gradio
-Exécutez le fichier demo.ipynb ou demo.py pour tester le modèle avec Gradio.
+Exécutez le fichier demo.ipynb ou demo.py pour tester le modèle avec Gradio. Vous aurez un truc comme suit :
+![Capture de test avec radio](img/gradio.png)
+
 
 ### Tester le modèle avec FAST API
 Exécutez le fichier main.py pour tester le modèle avec FastApi.
