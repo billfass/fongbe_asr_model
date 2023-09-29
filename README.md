@@ -53,7 +53,11 @@ Exécutez le fichier main.py pour tester le modèle avec FastApi.
 ### La mise en produciton
 Vous pouvez déployez le modèle dans n docker. Le fichier Dockerfile vous permet de créer votre image et de déployer le modèle sur un serveur en production. 
 
-![Capture de test avec fastapi](img/docker_images.png)
+![Capture de docker images](img/docker_images.png)
+
+![Capture de docker logs](img/docker_logs.png)
+
+![Capture de docker inspect](img/docker_inspect.png)
 
 ## Limitations et Biais
 
