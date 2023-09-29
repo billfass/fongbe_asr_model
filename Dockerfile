@@ -1,5 +1,5 @@
 # utiliser la commande 'docker search python' pour connaitre l'image de base Python à utiliser
-FROM python3.9
+FROM python
 
 COPY . .
 
@@ -8,4 +8,4 @@ RUN pip3 install -r requirements.txt
 
 EXPOSE 8000
 
-CMD ["uvicorn":"main:app", "--host", "127.0.0.1", "--port", "8000"]
+CMD ["uvicorn", "main:app", "--host", "127.0.0.1", "--port", "8000"]
