@@ -50,6 +50,11 @@ Exécutez le fichier main.py pour tester le modèle avec FastApi.
 
 ![Capture de test avec fastapi](img/fastapi.png)
 
+### La mise en produciton
+Vous pouvez déployez le modèle dans n docker. Le fichier Dockerfile vous permet de créer votre image et de déployer le modèle sur un serveur en production. 
+
+![Capture de test avec fastapi](img/docker_images.png)
+
 ## Limitations et Biais
 
 - Entraîné sur un ensemble de données spécifique, il peut ne pas généraliser bien à d'autres types de texte.
