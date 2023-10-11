@@ -66,8 +66,8 @@ Vous pouvez déployez le modèle dans n docker. Le fichier Dockerfile vous perme
 
 ## Auteurs
 
-- **Fassinou Bile**
-- **billfass2010@gmail.com**
+- **Bill Fassinou**
+- **bill.fassinou@gmail.com**
   
 ## Remerciements
 
